@@ -4,6 +4,9 @@ Upload an image and let AI describe it for you!
 # 🖼️ AI Image Captioning App
 
 This is a simple web app built with [Streamlit](https://streamlit.io) that generates captions for uploaded images using the **Salesforce BLIP (Bootstrapping Language-Image Pretraining)** model from Hugging Face's Transformers library.
+#conda activate blip_env create virtual envr
+cd "/Users/monika/Documents/Github /python projects using AI for interviews"
+streamlit run ai_image_caption.py
 
 ---
 
